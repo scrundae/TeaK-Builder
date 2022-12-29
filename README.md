@@ -5,3 +5,5 @@ TeaK Builder is a basic game that allows you to colour in squares in order to ma
 Windows 7 or up.
 (sorry, mac and linux users).
 If you can run File Explorer, you can run this.
+# GOALS!
+If this gets popular enough, I will consider releasing the full Visual Studio Repository for modding! :-)
